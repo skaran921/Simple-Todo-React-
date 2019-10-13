@@ -1,4 +1,6 @@
-![Test Image 4](https://github.com/skaran921/Simple-Todo-React-/blob/master/Screenshot%20(151).png)
+![Test Image 1](https://github.com/skaran921/Simple-Todo-React-/blob/master/Screenshot%20(151).png)
+![Test Image 2](https://github.com/skaran921/Simple-Todo-React-/blob/master/Screenshot%20(152).png)
+![Test Image 3](https://github.com/skaran921/Simple-Todo-React-/blob/master/Screenshot%20(153).png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
