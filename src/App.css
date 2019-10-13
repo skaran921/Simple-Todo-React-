@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.inputBox {
+  padding: 10px 15px;
+  border-radius: 6px;
+  background-color: #fafafa;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  background-color: #1bca9b;
+  color: #fff;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+  background-color: #fafafa;
+  color: #111;
+  padding: 10px;
+  border-radius: 4px;
+  width: auto;
+}
+
+.deleteBtn {
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  background-color: #ff3031;
+  color: #fff;
+}
+
+li {
+  display: table;
+  padding: 4px;
+}
+
+li input {
+  display: table-cell;
+}
+
+li button {
+  display: table-cell;
+  float: left;
+}
