@@ -1,6 +1,6 @@
-![Test Image 3](/Screenshot (151).png)
-![Test Image 3](/Screenshot (152).png)
-![Test Image 3](/Screenshot (153).png)
+![Test Image 1](Screenshot (151).png)
+![Test Image 1](Screenshot (152).png)
+![Test Image 1](Screenshot (153).png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
